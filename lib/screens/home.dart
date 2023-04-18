@@ -9,6 +9,7 @@ const Home({ Key? key }) : super(key: key);
     return Scaffold(body: Column(
       children: <widget>[
         Header(),
+        BoxCard(boxContent:  Text('Olá Mundo!')) //para ver se está funcionando
       ]
      ), ); 
      }
@@ -16,4 +17,7 @@ const Home({ Key? key }) : super(key: key);
 //envolver o head em uma coluna assim ele será alinhado (mais grudado)
 //o rows irá expandir 
 //widgets de organização de posicinamento
-//executar e ver a diferença
+//executar e ver a diferença 
+
+
+
