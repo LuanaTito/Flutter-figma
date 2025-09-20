@@ -1,0 +1,29 @@
+Instalação do Flutter e Android
+Android
+Instalar o Android
+atualizar as tools 
+criar o virtual device 7
+ 
+Comandos para a instalação do flutter
+entrar no terminar power shell
+Comandos: 
+git config --global --add safe.directory '*'
+flutter
+flutter doctor
+seguir as linhas de códigos de  erro
+atualizar e instalar o android studio
+virtual device manager: criar o emulador pixel 6, depois baixar o R
+colocar as sdk manager  ( android sdk latest, emulator e tools)
+reiniciar a maquina
+dar o flutter doctor e colocar as licenças. 
+
+
+Se o comando não funcionar: 
+Depois de instalar o plugin do flutter no vs code, ctrl + shift + P 
+Flutter new project
+escolher a pasta (c: src)
+instalar o sdk 
+colocar as variáveis de ambiente : C:\src\flutter\bin
+reiniciar a máquina 
+criar um projeto no vs code  ctrl + shift + P e salvar na pasta. 
+ 
